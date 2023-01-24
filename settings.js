@@ -32,22 +32,22 @@ global.language = english //change indonesia to english if you don't understand 
 // Other
 // Other
 global.botname = "Alphabot-Md" //namabot kalian
-global.ownername = "sandaru" //nama kalian
-global.myweb = "https://s.id/BOTGITHUB" //bebas asal jan hapus
-global.youtube = "https://youtube.com/@sandaru12" //bebas asal jan hapus
-global.myweb2 = "https://s.id/BOTGITHUB" //bebas
-global.email = "mdsandaru2@gmail.com" //bebas
+global.ownername = "DIwaa" //nama kalian
+global.myweb = "https://wa.me/qr/3EJZYXWJQ327G1" //bebas asal jan hapus
+global.youtube = "https://wa.me/qr/3EJZYXWJQ327G1" //bebas asal jan hapus
+global.myweb2 = "https://wa.me/qr/3EJZYXWJQ327G1" //bebas
+global.email = "hiboy2@gmail.com" //bebas
 global.region = "Buddhist" //bebas
 global.timezone = 'Asia/Colombo' //  timezone wib
-global.premium = ['94764497078'] //premium user
-global.owner = ["764497078", "94764497078"] //ganti agar fitur owner bisa di gunakan
-global.ownernomer = "764497078" // nomor wa kalian
-global.ownernomerr = "+94764497078" //nmr wa kalian
+global.premium = ['94761294942'] //premium user
+global.owner = ["94761294942", "94761294942"] //ganti agar fitur owner bisa di gunakan
+global.ownernomer = "94761294942" // nomor wa kalian
+global.ownernomerr = "94761294942" //nmr wa kalian
 global.thumbnail = "./image/lol.jpg" // ini lol.jpg adalah nama foto di folder image. untuk foto bot
 global.donasi = "./image/donasi.jpg" // foto donasi di folder image
 global.background_welcome = "https://telegra.ph/file/90a931648de597820bc08.jpg" // maks size 30kb, agar welcome image nya tdk delay
 global.thumbGif = 'https://telegra.ph/file/e90bef3779d3c5812a5d1.mp4'
-global.packname = '© Alphabot-Md' //sticker wm ubah
+global.packname = '© DIWAA-MD' //sticker wm ubah
 global.author = 'Di Buat Oleh ZeeoneOfc' //sticker wm ganti nama kalian
 global.sessionName = 'session'
 global.typemenu = 'document'
@@ -122,13 +122,13 @@ global.flasmurf = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutp
 global.prefa = ['', '!', '.', '🐦', '🐤', '🗿']
 global.sp = '⭔'
 global.mess = {
-   sukses: '🤗Done, Oke Desu~',
-   admin: 'Perintah Ini Hanya Bisa Digunakan Oleh Admin !',
-   botAdmin: 'Perintah Ini Hanya Bisa Digunakan Ketika Bot Menjadi Admin !',
-   owner: 'Perintah Ini Hanya Bisa Digunakan Oleh Owner !',
-   group: 'Perintah Ini Hanya Bisa Digunakan Di Group !',
-   private: 'Perintah Ini Hanya Bisa Digunakan Di Private !',
-   bot: 'Fitur Khusus Pengguna Nomor Bot',
+   sukses: '🤗Done, එලම',
+   admin: 'උඹට ඇඩ්මින් නෑනෙ!',
+   botAdmin: 'මට ඇඩ්මින් නෑ යකෝ !',
+   owner: 'ඔව්ව්නර්ට විතරයි බං වැඩ !',
+   group: 'ගෲප්වල විතරයි වැඩ !',
+   private: 'මට විතරයි වැඩ !',
+   bot: 'Bot',
    errtoimg: 'Maaf Saat Ini Belum Support Sticker Gif !',
    wait: '⏳ *Loding*',
    lockCmd: 'Fitur Tidak Diaktifkan Oleh Owner!',
